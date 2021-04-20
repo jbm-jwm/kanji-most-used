@@ -1,6 +1,4 @@
 {
     "noteTypes": ["japanese"],
-    "srcFields": ["Expression", "Kanji"],
-    "dstFields": ["Reading", "Reading"],
-    "furiganaSuffix": " (furigana)"
+    "srcFields": ["Expression", "Kanji"]
 }
